@@ -48,9 +48,11 @@ Creator makes the leap → Shares success → Inspires next wave
 
 ## 🔗 Links
 
-- **App:** [leap.vercel.app](https://leap.vercel.app)
-- **Token:** Coming soon
-- **Contracts:** Coming soon
+- **App:** [frontend-ldjqztz2a-ethras-projects-54a2c526.vercel.app](https://frontend-ldjqztz2a-ethras-projects-54a2c526.vercel.app)
+- **Token ($LEAP):** [0xd77BCD4f8Cc5691A27Bdc35B16ebCfd9BeFd9B07](https://basescan.org/token/0xd77BCD4f8Cc5691A27Bdc35B16ebCfd9BeFd9B07)
+- **LeapCred Contract:** [0xa6716cC5f5834B40Aaf84B32F2D3E036a67520cc](https://basescan.org/address/0xa6716cC5f5834B40Aaf84B32F2D3E036a67520cc)
+- **Clanker:** [clanker.world/clanker/0xd77BCD4f8Cc5691A27Bdc35B16ebCfd9BeFd9B07](https://www.clanker.world/clanker/0xd77BCD4f8Cc5691A27Bdc35B16ebCfd9BeFd9B07)
+- **Buy $LEAP:** [Uniswap](https://app.uniswap.org/swap?outputCurrency=0xd77BCD4f8Cc5691A27Bdc35B16ebCfd9BeFd9B07&chain=base)
 
 ## 📜 License
 
