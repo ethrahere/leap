@@ -1,0 +1,16 @@
+{
+  "name": "leap-scripts",
+  "type": "module",
+  "scripts": {
+    "deploy-token": "tsx deploy-token.ts"
+  },
+  "dependencies": {
+    "clanker-sdk": "^0.4.0",
+    "viem": "^2.0.0",
+    "dotenv": "^16.0.0"
+  },
+  "devDependencies": {
+    "tsx": "^4.0.0",
+    "typescript": "^5.0.0"
+  }
+}
